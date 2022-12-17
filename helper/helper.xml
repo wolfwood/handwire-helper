@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/wolfwood/repos/hardwire-helper/helper/helper.kicad_sch</source>
+    <date>Mon 05 Dec 2022 12:00:55 AM CST</date>
+    <tool>Eeschema 6.0.7</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>helper.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb722964-0879-4c3e-b5d8-d0db85d3f58f</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44de1e79-2082-4c68-bf63-663df1e257ea</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65b7852a-a8d0-4945-a9a4-023c601e5e20</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4196eb6f-b22c-4412-b8df-fda2fd015198</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bdabc02e-a259-4a40-9d2d-50d12423f8c9</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b578e237-e89d-4ac4-b42c-6cb04626e3f1</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc9a5f84-f45a-4af8-9304-8a0ead8b1d91</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14f07847-6316-4971-9373-161011b38661</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6bbfa87f-2e48-433a-8b9b-ba0863bada5f</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40c9e6ba-bfba-44a7-99d8-7fb395db8170</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1073ba43-7466-4355-983f-b6fa968f1b1c</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90f30aa2-dd7e-40a7-9e47-c1cd6b7573e4</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5355f34b-cd34-4cc6-9429-72237769de75</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb824489-ea2b-41c2-bec4-43df21433d35</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2c9bbb0-dfe8-44ef-a230-ce032a451b66</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1dd7217-bab1-4c76-886c-16e71b66012b</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a9b95e1-3cca-4c51-8cb0-d266573096ef</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>224637e0-b787-439b-858e-a392beafe391</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>267fd25c-a1f9-47a2-9be8-387d051b8143</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>152642bc-ceaf-4fcc-be18-b3867ab1471a</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e9558ea-a592-4bff-aff5-81b2f5cc5bd1</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5497fbf2-e19e-4607-a53f-91ab9af517ee</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ad04270-e546-40b5-84ac-a9531a07ddeb</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b825ed14-13be-423c-a540-e7f3cd77308b</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>152b765f-f27b-4e1d-8863-2769cbfdf281</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f7e4268-2cd7-4271-9d66-92a433027c07</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>217d2edb-f095-4e58-9da5-32c7da2ec4ea</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2832b0eb-471b-472f-a4f6-8b80a7e39566</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eddbaf2d-52ed-40c4-bf4b-1fa65e4762be</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5e2bd5e-a633-4634-b297-87917451ae09</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca970603-c0be-4b55-9712-7503aba09222</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aafcc7de-0b29-456a-845f-9e5facb36bd6</tstamps>
+    </comp>
+    <comp ref="D33">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bbd3f776-75c6-4e32-8482-5b265bfd7273</tstamps>
+    </comp>
+    <comp ref="D34">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f08fab8-d164-451e-bf5a-1d84da76fd92</tstamps>
+    </comp>
+    <comp ref="D35">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79178dc5-5564-4596-9a44-df3c4f77b4ec</tstamps>
+    </comp>
+    <comp ref="D36">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b4becdf-2890-472e-9099-f3e4e7d4f5a4</tstamps>
+    </comp>
+    <comp ref="D37">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2da4b717-a5d2-440a-94d6-6541cf53bad4</tstamps>
+    </comp>
+    <comp ref="D38">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea6873c9-43e5-473a-821f-660cc90192f4</tstamps>
+    </comp>
+    <comp ref="D39">
+      <value>1N4148WS</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6fd4d37-22f6-4e37-be12-6741e7b5d964</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>columns</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x34_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x34_Row_Letter_Last" description="Generic connector, double row, 02x34, row letter last pin numbering scheme (pin number consists of a letter for the row and a number for the pin index in this row. 1a, ..., Na; 1b, ..., Nb)), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f9e89ff-cf08-48c8-820b-1305448e8ee0</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x08_Male</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x08_Male" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="helper.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a94c217-af0c-4828-a9e3-6a8d2a60730a</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x08_Male">
+      <description>Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x08_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x34_Row_Letter_Last">
+      <description>Generic connector, double row, 02x34, row letter last pin numbering scheme (pin number consists of a letter for the row and a number for the pin index in this row. 1a, ..., Na; 1b, ..., Nb)), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J?</field>
+        <field name="Value">Conn_02x34_Row_Letter_Last</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1_1a" name="Pin_1_1a" type="passive"/>
+        <pin num="1_1b" name="Pin_1b" type="passive"/>
+        <pin num="1_2a" name="Pin_2a" type="passive"/>
+        <pin num="2b" name="Pin_2b" type="passive"/>
+        <pin num="3a" name="Pin_3a" type="passive"/>
+        <pin num="3b" name="Pin_3b" type="passive"/>
+        <pin num="4a" name="Pin_4a" type="passive"/>
+        <pin num="4b" name="Pin_4b" type="passive"/>
+        <pin num="5a" name="Pin_5a" type="passive"/>
+        <pin num="5b" name="Pin_5b" type="passive"/>
+        <pin num="6a" name="Pin_6a" type="passive"/>
+        <pin num="6b" name="Pin_6b" type="passive"/>
+        <pin num="7a" name="Pin_7a" type="passive"/>
+        <pin num="7b" name="Pin_7b" type="passive"/>
+        <pin num="8a" name="Pin_8a" type="passive"/>
+        <pin num="8b" name="Pin_8b" type="passive"/>
+        <pin num="9a" name="Pin_9a" type="passive"/>
+        <pin num="9b" name="Pin_9b" type="passive"/>
+        <pin num="10a" name="Pin_10a" type="passive"/>
+        <pin num="10b" name="Pin_10b" type="passive"/>
+        <pin num="11a" name="Pin_11a" type="passive"/>
+        <pin num="11b" name="Pin_11b" type="passive"/>
+        <pin num="12a" name="Pin_12a" type="passive"/>
+        <pin num="12b" name="Pin_12b" type="passive"/>
+        <pin num="13a" name="Pin_13a" type="passive"/>
+        <pin num="13b" name="Pin_13b" type="passive"/>
+        <pin num="14a" name="Pin_14a" type="passive"/>
+        <pin num="14b" name="Pin_14b" type="passive"/>
+        <pin num="15a" name="Pin_15a" type="passive"/>
+        <pin num="15b" name="Pin_15b" type="passive"/>
+        <pin num="16a" name="Pin_16a" type="passive"/>
+        <pin num="16b" name="Pin_16b" type="passive"/>
+        <pin num="17a" name="Pin_17a" type="passive"/>
+        <pin num="17b" name="Pin_17b" type="passive"/>
+        <pin num="18a" name="Pin_18a" type="passive"/>
+        <pin num="18b" name="Pin_18b" type="passive"/>
+        <pin num="19a" name="Pin_19a" type="passive"/>
+        <pin num="19b" name="Pin_19b" type="passive"/>
+        <pin num="20a" name="Pin_20a" type="passive"/>
+        <pin num="20b" name="Pin_20b" type="passive"/>
+        <pin num="21a" name="Pin_21a" type="passive"/>
+        <pin num="21b" name="Pin_21b" type="passive"/>
+        <pin num="22a" name="Pin_22a" type="passive"/>
+        <pin num="22b" name="Pin_22b" type="passive"/>
+        <pin num="23a" name="Pin_23a" type="passive"/>
+        <pin num="23b" name="Pin_23b" type="passive"/>
+        <pin num="24a" name="Pin_24a" type="passive"/>
+        <pin num="24b" name="Pin_24b" type="passive"/>
+        <pin num="25a" name="Pin_25a" type="passive"/>
+        <pin num="25b" name="Pin_25b" type="passive"/>
+        <pin num="26a" name="Pin_26a" type="passive"/>
+        <pin num="26b" name="Pin_26b" type="passive"/>
+        <pin num="27a" name="Pin_27a" type="passive"/>
+        <pin num="27b" name="Pin_27b" type="passive"/>
+        <pin num="28a" name="Pin_28a" type="passive"/>
+        <pin num="28b" name="Pin_28b" type="passive"/>
+        <pin num="29a" name="Pin_29a" type="passive"/>
+        <pin num="29b" name="Pin_29b" type="passive"/>
+        <pin num="30a" name="Pin_30a" type="passive"/>
+        <pin num="30b" name="Pin_30b" type="passive"/>
+        <pin num="31a" name="Pin_31a" type="passive"/>
+        <pin num="31b" name="Pin_31b" type="passive"/>
+        <pin num="32a" name="Pin_32a" type="passive"/>
+        <pin num="32b" name="Pin_32b" type="passive"/>
+        <pin num="33a" name="Pin_33a" type="passive"/>
+        <pin num="33b" name="Pin_33b" type="passive"/>
+        <pin num="34a" name="Pin_34a" type="passive"/>
+        <pin num="34b" name="Pin_34b" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4148WS">
+      <description>75V 0.15A Fast switching Diode, SOD-323</description>
+      <docs>https://www.vishay.com/docs/85751/1n4148ws.pdf</docs>
+      <footprints>
+        <fp>D*SOD?323*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4148WS</field>
+        <field name="Footprint">Diode_SMD:D_SOD-323</field>
+        <field name="Datasheet">https://www.vishay.com/docs/85751/1n4148ws.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>/usr/share/kicad/symbols//Diode.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D35" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="2" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="1_1a" pinfunction="Pin_1_1a" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="1_2a" pinfunction="Pin_2a" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="3a" pinfunction="Pin_3a" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="4a" pinfunction="Pin_4a" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="5a" pinfunction="Pin_5a" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="6a" pinfunction="Pin_6a" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="7a" pinfunction="Pin_7a" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="8a" pinfunction="Pin_8a" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="9a" pinfunction="Pin_9a" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D10-Pad1)">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D37" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="10a" pinfunction="Pin_10a" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="11a" pinfunction="Pin_11a" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="12a" pinfunction="Pin_12a" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D13-Pad1)">
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D38" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="13a" pinfunction="Pin_13a" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="14a" pinfunction="Pin_14a" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="15a" pinfunction="Pin_15a" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D16-Pad2)">
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="16a" pinfunction="Pin_16a" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D17-Pad1)">
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D39" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D17-Pad2)">
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="17a" pinfunction="Pin_17a" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D18-Pad2)">
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="18a" pinfunction="Pin_18a" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="19a" pinfunction="Pin_19a" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D20-Pad2)">
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="20a" pinfunction="Pin_20a" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D21-Pad1)">
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D21-Pad2)">
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="21a" pinfunction="Pin_21a" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D22-Pad2)">
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="22a" pinfunction="Pin_22a" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="23a" pinfunction="Pin_23a" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D24-Pad2)">
+      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="24a" pinfunction="Pin_24a" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D25-Pad1)">
+      <node ref="D25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D26" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D25-Pad2)">
+      <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="25a" pinfunction="Pin_25a" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D26-Pad2)">
+      <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="26a" pinfunction="Pin_26a" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D27-Pad2)">
+      <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="27a" pinfunction="Pin_27a" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D28-Pad2)">
+      <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="28a" pinfunction="Pin_28a" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D29-Pad2)">
+      <node ref="D29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="29a" pinfunction="Pin_29a" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D30-Pad1)">
+      <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D31" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D33" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D34" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D30-Pad2)">
+      <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="30a" pinfunction="Pin_30a" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D31-Pad2)">
+      <node ref="D31" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="31a" pinfunction="Pin_31a" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D32-Pad2)">
+      <node ref="D32" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="32a" pinfunction="Pin_32a" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D33-Pad2)">
+      <node ref="D33" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="33a" pinfunction="Pin_33a" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D34-Pad2)">
+      <node ref="D34" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="34a" pinfunction="Pin_34a" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D35-Pad1)">
+      <node ref="D35" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="13b" pinfunction="Pin_13b" pintype="passive"/>
+      <node ref="J1" pin="17b" pinfunction="Pin_17b" pintype="passive"/>
+      <node ref="J1" pin="21b" pinfunction="Pin_21b" pintype="passive"/>
+      <node ref="J1" pin="25b" pinfunction="Pin_25b" pintype="passive"/>
+      <node ref="J1" pin="30b" pinfunction="Pin_30b" pintype="passive"/>
+      <node ref="J1" pin="5b" pinfunction="Pin_5b" pintype="passive"/>
+      <node ref="J1" pin="9b" pinfunction="Pin_9b" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D36-Pad1)">
+      <node ref="D36" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="10b" pinfunction="Pin_10b" pintype="passive"/>
+      <node ref="J1" pin="14b" pinfunction="Pin_14b" pintype="passive"/>
+      <node ref="J1" pin="18b" pinfunction="Pin_18b" pintype="passive"/>
+      <node ref="J1" pin="1_1b" pinfunction="Pin_1b" pintype="passive"/>
+      <node ref="J1" pin="22b" pinfunction="Pin_22b" pintype="passive"/>
+      <node ref="J1" pin="26b" pinfunction="Pin_26b" pintype="passive"/>
+      <node ref="J1" pin="31b" pinfunction="Pin_31b" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D36-Pad2)">
+      <node ref="D36" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D37-Pad1)">
+      <node ref="D37" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="15b" pinfunction="Pin_15b" pintype="passive"/>
+      <node ref="J1" pin="19b" pinfunction="Pin_19b" pintype="passive"/>
+      <node ref="J1" pin="23b" pinfunction="Pin_23b" pintype="passive"/>
+      <node ref="J1" pin="27b" pinfunction="Pin_27b" pintype="passive"/>
+      <node ref="J1" pin="2b" pinfunction="Pin_2b" pintype="passive"/>
+      <node ref="J1" pin="32b" pinfunction="Pin_32b" pintype="passive"/>
+      <node ref="J1" pin="6b" pinfunction="Pin_6b" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D38-Pad1)">
+      <node ref="D38" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="11b" pinfunction="Pin_11b" pintype="passive"/>
+      <node ref="J1" pin="20b" pinfunction="Pin_20b" pintype="passive"/>
+      <node ref="J1" pin="24b" pinfunction="Pin_24b" pintype="passive"/>
+      <node ref="J1" pin="28b" pinfunction="Pin_28b" pintype="passive"/>
+      <node ref="J1" pin="33b" pinfunction="Pin_33b" pintype="passive"/>
+      <node ref="J1" pin="3b" pinfunction="Pin_3b" pintype="passive"/>
+      <node ref="J1" pin="7b" pinfunction="Pin_7b" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D39-Pad1)">
+      <node ref="D39" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="12b" pinfunction="Pin_12b" pintype="passive"/>
+      <node ref="J1" pin="16b" pinfunction="Pin_16b" pintype="passive"/>
+      <node ref="J1" pin="29b" pinfunction="Pin_29b" pintype="passive"/>
+      <node ref="J1" pin="34b" pinfunction="Pin_34b" pintype="passive"/>
+      <node ref="J1" pin="4b" pinfunction="Pin_4b" pintype="passive"/>
+      <node ref="J1" pin="8b" pinfunction="Pin_8b" pintype="passive"/>
+    </net>
+  </nets>
+</export>
