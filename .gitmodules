@@ -1,0 +1,3 @@
+[submodule "footprints/handy.pretty"]
+	path = footprints/handy.pretty
+	url = ../handy.pretty.git
