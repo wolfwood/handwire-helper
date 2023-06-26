@@ -13,4 +13,4 @@ This lets the keyspacing be determined by a 3D printed case, independent of the 
 
 The microcontroller can be similarly connected to this board by jumpers, allowing flexibility in case design, and in placement of the USB plug.
 
-Version 0.1 has been successfully manufactured but not yet tested.
+Version 0.1 has been successfully manufactured and functionality has been tested and verified.
